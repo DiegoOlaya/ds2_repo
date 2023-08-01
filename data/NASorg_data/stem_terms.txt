@@ -1,0 +1,16 @@
+astronomy
+biology
+chemistry
+engineering
+geology
+mathematics
+math
+data
+meteorology
+oceanography
+physics
+science
+technology
+tech
+code
+computers
